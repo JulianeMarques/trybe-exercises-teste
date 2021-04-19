@@ -1,0 +1,12 @@
+h1, p{
+    text-align: center;
+}
+
+li:hover {
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    list-style: none;
+}

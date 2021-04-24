@@ -20,3 +20,25 @@ else if (nota <= 80 && nota >= 60) {
 else {
     console.log("reprovado");
 }
+
+//switch/case
+
+let trafficLight = "vermelho";
+
+switch (trafficLight) {
+    case "vermelho":
+        console.log("pare");
+        break;
+
+    case "vamerelo":
+        console.log("atencao");
+        break;
+
+    case "verde":
+        console.log("psiga");
+        break;
+
+    default:
+        console.log("valor nao identificado");
+
+}

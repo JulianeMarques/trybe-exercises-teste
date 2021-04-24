@@ -35,10 +35,11 @@ switch (trafficLight) {
         break;
 
     case "verde":
-        console.log("psiga");
+        console.log("siga");
         break;
 
     default:
         console.log("valor nao identificado");
 
 }
+

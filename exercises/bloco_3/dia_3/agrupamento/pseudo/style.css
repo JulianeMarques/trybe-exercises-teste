@@ -1,0 +1,48 @@
+div:hover {
+    border-color: black;
+    border-style: solid;
+}
+
+#prima {
+    background-color: blueviolet;
+}
+
+#seco {
+    background-color: aquamarine;
+}
+
+#comple {
+    background-color: green;
+}
+
+#escura {
+    background-color: brown;
+}
+
+#clara {
+    background-color: blanchedalmond;
+}
+
+.prima {
+    text-decoration: double;
+    font-style: italic;
+}
+
+.seco {
+    text-decoration: line-through;
+}
+
+.comple {
+    font-size: x-large;
+    text-decoration: dashed;
+    font-style: italic;
+}
+
+.escura {
+    text-decoration: underline;
+}
+
+.clara {
+    text-decoration: overline;
+    font-style: italic;
+}
